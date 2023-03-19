@@ -14,8 +14,8 @@ Format: `<type>(<scope>): <subject>`
 
 ### Commit example
 ```
-feat: add model User
-^--^  ^------------^
+feat: new model user in user module 
+^--^  ^---------------------------^
 |     |
 |     +-> Summary in present tense.
 |
