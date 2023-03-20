@@ -10,6 +10,7 @@ See how a minor change to your commit message style can make you a better progra
 
 ### Commit format
 Format: `<type>(<scope>): <subject>`
+
 `<scope>` is optional
 
 ### Commit example
