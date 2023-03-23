@@ -8,8 +8,13 @@ See how a minor change to your commit message style can make you a better progra
 
 ### Commit rules
 
+```
 1. create a new branch with the name of the feature
- 2. merge the branch to development first for code review.
+2. rebase the development branch to new branch commit
+3. merge the branch to development first for code review.
+
+notes: only push the fast forward merge
+```
 
 ### Commit format
 
